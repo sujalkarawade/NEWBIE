@@ -1,3 +1,3 @@
 # NEWBIE
 This is my first Git Repository.
-wassup
+wassup nigga
